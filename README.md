@@ -1,0 +1,2 @@
+# tsinit
+Initiate Typescript Project
