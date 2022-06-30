@@ -1,0 +1,27 @@
+{
+  "name": "tsinit",
+  "version": "1.0.0",
+  "description": "Initiate Typescript Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwjjeong/tsinit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwjjeong/tsinit/issues"
+  },
+  "homepage": "https://github.com/mwjjeong/tsinit#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
